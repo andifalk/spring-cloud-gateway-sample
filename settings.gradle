@@ -1,0 +1,5 @@
+//rootProject.name = 'spring-cloud-gateway-sample'
+
+include 'api-gateway'
+include 'service1'
+include 'service2'
